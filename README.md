@@ -42,8 +42,7 @@
 | Ecosia       | https://www.ecosia.org/    |
 
 FireFox默认搜索引擎的设置
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
-!(https://github.com/yanDebug/NewRen/blob/main/1.png)
+![这是图片](https://github.com/yanDebug/NewRen/blob/main/1.png "Magic Gardens")
 
 ## 软件卸载
 遇到流氓软件卸载不掉，推荐使用[Geek](https://geekuninstaller.com/)卸载。
