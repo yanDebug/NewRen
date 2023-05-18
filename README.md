@@ -25,35 +25,16 @@
 
 如果你会科学上网的话，推荐使用Google,网址是<www.google.com>。
 
-== 以Web為基礎的搜尋引擎 ==
-{{未完成列表}}
-{| width="100%" class="wikitable"
-|-
-!rowspan="2"|搜尋引擎名稱
-! rowspan="2" |市场份额!! rowspan="2" |语言!!rowspan="2"|外部链接!! colspan="9" |可供搜尋内容的类型
-|-
-!網頁!!新聞!!圖片!!影片!!書籍!!地圖!!字典!!程式碼!!百科全书
-|-
-|[[Google]]||92.41%||多语言||{{URL|google.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||
-|-
-|[[Bing]]||2.46%||多语言||{{URL|bing.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||  ||{{yes}}||{{yes}}|| ||
-|-
-|[[Yahoo]]||1.48%||多语言||{{URL|yahoo.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} || || || || ||
-|-
-|[[百度]]||1.3%||中文||{{URL|baidu.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} ||{{yes}}||{{yes}} || ||{{yes}}
-|-
-|[[DuckDuckGo]]||0.6%||多语言||{{URL|duckduckgo.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} || || || || ||
-|- 
-|[[搜狗]]||||中文||{{URL|sogou.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} ||{{yes}}||  || ||{{yes}}
-|-
-|[[360搜索]]||||中文||{{URL|www.so.com}}||{{yes}}||{{yes}}||{{yes}} ||{{yes}}||{{yes}} ||{{yes}} ||  || ||{{yes}}
-|-
-|[[Startpage]]||||多语言||{{URL|startpage.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} || || || || ||
-|-
-|[[Yandex]]||||以俄语、英语为主||{{URL|yandex.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} || ||{{yes}} || || ||
-|-
-|[[NAVER|Naver]]||||韩语||{{URL|naver.com}}||{{yes}}||{{yes}}||{{yes}}||{{yes}} || || || || ||
-|-
-|[[Ecosia]]||||[[德语|德]]、[[英语|英]]、[[西班牙语|西]]、[[法语|法]]、[[意大利语|意]]、[[荷蘭語|荷]]、[[瑞典語|瑞]]||{{URL|ecosia.org}}||{{yes}}||{{yes}}||{{yes}}||{{yes}}||||{{NoteTag|使用谷歌地图、Bing地图}}|||||||
-|-
-|}<ref>{{cite web |url=https://gs.statcounter.com/search-engine-market-share |title=Search Engine Market Share Worldwide |date=2021-03 |website= |accessdate=2021-04-09 |archive-date=2020-12-10 |archive-url=https://web.archive.org/web/20201210182621/https://gs.statcounter.com/search-engine-market-share |dead-url=no }}</ref>
+| 搜索引擎名称 | 外部链接                   |
+| ------------ | -------------------------- |
+| Google       | https://www.google.com/    |
+| Bing         | https://www.bing.com/      |
+| Yahoo        | https://au.yahoo.com/      |
+| Baidu        | https://www.baidu.com/     |
+| DuckDuckGo   | https://duckduckgo.com/    |
+| 搜狗         | http://sogou.com/          |
+| 360搜索      | https://www.so.com/        |
+| Startpage    | https://www.startpage.com/ |
+| Yandex       | https://yandex.com/        |
+| Naver        | https://www.naver.com/     |
+| Ecosia       | https://www.ecosia.org/    |
