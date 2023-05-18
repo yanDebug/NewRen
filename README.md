@@ -48,4 +48,4 @@
 关于解压软件，推荐使用[Bandizip](https://www.bandisoft.com/bandizip/)、[7-Zip](https://sparanoid.com/lab/7z/)。
 
 ## 关于MS Office的破解
-如果你讨厌使用全部是广告的WPS，那你得使用微软的MS Office进行文档表格等常见办公文件的编辑，而有时候你却没有这软件正版，就需要[Office Tool Plus](https://otp.landian.vip/zh-cn/)来对微软的Office进行破解。
+如果你讨厌有广告的WPS，那你得使用微软的MS Office进行文档表格等常见办公文件的编辑，而有时候你却没有这软件的正版，就需要[Office Tool Plus](https://otp.landian.vip/zh-cn/)来对微软的Office进行破解。
