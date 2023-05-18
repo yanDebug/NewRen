@@ -40,3 +40,12 @@
 | Yandex       | https://yandex.com/        |
 | Naver        | https://www.naver.com/     |
 | Ecosia       | https://www.ecosia.org/    |
+
+## 软件卸载
+遇到流氓软件卸载不掉，推荐使用[Geek](https://geekuninstaller.com/)卸载。
+
+## 解压软件
+关于解压软件，推荐使用[Bandizip](https://www.bandisoft.com/bandizip/)。
+
+## 关于MS OFFICE的破解
+如果你讨厌使用全部是广告的WPS，那你得使用微软的MS Office进行文档表格等常见办公文件的编辑，而有时候你却没有这软件正版，就需要[Office Tool Plus](https://otp.landian.vip/zh-cn/)来对微软的Office进行破解。
