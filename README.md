@@ -17,3 +17,8 @@
 关于浏览器，你一定听过大名鼎鼎的[Google Chrome](https://www.google.com/chrome/),此浏览器是这个领域内的佼佼者，但是它也有一个对大部分人来说头疼的问题，在中国大陆，无法使用Google搜索引擎，不能进行Google账号的登录与同步，如果你能突破网络审查的话，非常推荐你使用。
 
 第三位选手是FireFox,中文名火狐浏览器，火狐浏览器是开源的浏览器，这导致它的安全性比较好，特别是在管理账号密码方面，它的安全性是大于Edge和Google Chrome的,值得注意的是FireFox在中国大陆分为[FireFox国内版](https://www.firefox.com.cn/)和[FireFox国际版](https://www.mozilla.org/zh-CN/firefox/new/)，这里我推荐大家使用国际版，国内版访问某些网站时会被限制。火狐书签和密码的同步也做得非常完善，能多平台登录同步。
+
+## 搜索引擎
+不是我说，这是大家都公认的，百度就是垃圾，不到万不得已，建议不要使用百度搜索引擎。
+如果你不会科学上网，推荐你使用微软公司的Bing搜索引擎，网址是<www.bing.com>。
+如果你会科学上网的话，推荐使用Google,网址是<www.google.com>。
