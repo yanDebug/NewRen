@@ -53,7 +53,7 @@ FireFox默认搜索引擎的设置
 ## 关于MS Office的破解
 如果你讨厌有广告的WPS，那你得使用微软的MS Office进行文档表格等常见办公文件的编辑，而有时候你却没有这软件的正版，就需要[Office Tool Plus](https://otp.landian.vip/zh-cn/)来对微软的Office进行破解。
 
-## 计算机的美化
+## 美化
 爱美之心，人皆有之。没有人拒绝一个好看的电脑界面呢。
 
 动态壁纸，推荐使用steam里面的Wallpaper Engine。只需要18块，打开新世界的大门。
